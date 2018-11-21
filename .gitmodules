@@ -1,0 +1,3 @@
+[submodule "ddf--gapminder--systema_globalis"]
+	path = ddf--gapminder--systema_globalis
+	url = https://github.com/open-numbers/ddf--gapminder--systema_globalis

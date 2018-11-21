@@ -1,0 +1,25 @@
+{
+  "name": "gapminder-csv",
+  "version": "1.0.0",
+  "description": "A single CSV dataset for all Gapminder datapoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gap2csv": "bin/gap2csv.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntagmatic/gapminder-csv.git"
+  },
+  "author": "Kai Chang",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/syntagmatic/gapminder-csv/issues"
+  },
+  "homepage": "https://github.com/syntagmatic/gapminder-csv#readme",
+  "dependencies": {
+    "d3-collection": "^1.0.7",
+    "d3-dsv": "^1.0.10",
+    "d3-queue": "^3.0.7"
+  }
+}
